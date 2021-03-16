@@ -107,7 +107,7 @@ function LazyLoadedScene() {
       >
         <div className="title">
           <Typography style={{ textAlign: "center" }} variant="h3">
-            3d-starter
+            vr-thrusters
           </Typography>
           <div className="requirements">
             <WarningOutlined />
